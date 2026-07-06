@@ -59,17 +59,16 @@ CLARITY is a web-based application that provides **real-time speech-to-text capt
 ## 📂 Project Structure
 
 
-CLARITY/
-│
-├── ai.js
-├── speech.js
-├── tts.js
-├── utils.js
-├── server.js
-├── index.html
-├── style.css
-├── package.json
-└── package-lock.json
+CLARITY
+1. ai.js
+2. speech.js
+3. tts.js
+4. utils.js
+5. server.js
+6. index.html
+7. style.css
+8. package.json
+9. package-lock.json
 
 
 ---
