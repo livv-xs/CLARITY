@@ -109,10 +109,10 @@ Open `index.html` in your browser.
 ### Home Page & Live Caption
 <img width="1438" height="778" alt="1" src="https://github.com/user-attachments/assets/5884c22f-9ac0-444f-954b-aff07f835bab" />
 
-### Text To Speech 
+### Text To Speech & AI Summary
 <img width="1439" height="773" alt="2" src="https://github.com/user-attachments/assets/d673aba0-ed32-4549-840b-232eebc0625f" />
 
-### AI Summary
+### Translation & Ask AI
 <img width="1440" height="769" alt="3" src="https://github.com/user-attachments/assets/41d9cbeb-2073-40ed-89dc-d1b4f7efcdb1" />
 
 
