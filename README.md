@@ -2,32 +2,32 @@
 
 ### AI-Powered Live Caption & Communication Assistant
 
-CLARITY is a web-based application that provides **real-time speech-to-text captions** and AI-powered tools to improve communication. It is designed to help users better understand conversations by generating live captions, summarizing discussions, translating transcripts, answering questions about conversations, and converting text to speech.
+CLARITY is a web based application that provides **real-time speech-to-text captions** and AI-powered tools to improve communication. It is designed to help users better understand conversations by generating live captions, summarizing discussions, translating transcripts, answering questions about conversations, and converting text to speech.
 
 ---
 
 **✨ Features**
 
-### 🎤 Live Caption
+### Live Caption
 
 * Converts spoken English into live text using the browser's Speech Recognition API.
 * Displays captions with timestamps.
 * Automatically continues listening until stopped.
 
-### 🤖 AI Summary
+### AI Summary
 
 * Generates a concise summary of the conversation using AI.
 
-### 🌍 AI Translation
+### AI Translation
 
 * Translates the transcript into different languages.
 
-### ❓ Ask AI
+### Ask AI
 
 * Ask questions about the conversation.
 * AI answers using only the transcript instead of making up information.
 
-### 🔊 Text-to-Speech
+### Text-to-Speech
 
 * Reads generated text aloud to improve accessibility.
 
